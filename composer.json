@@ -1,5 +1,5 @@
 {
-    "name": "devcake-deventer/laravel-loki-logging",
+    "name": "ralfhortt/laravel-loki-logging",
     "version": "0.0.1",
     "description": "Logging to Loki for Laravel",
     "type": "library",
@@ -7,10 +7,13 @@
         {
             "name": "Sven Mol",
             "email": "s.mol@devcake.nl"
+        },
+        {
+            "name": "Ralf Hortt",
+            "email": "mail@ralfhortt.dev"
         }
     ],
     "require": {
-        "php": "^7.0",
         "ext-json": "*",
         "illuminate/support": "^8.0.0",
         "illuminate/console": "^8.0.0",
